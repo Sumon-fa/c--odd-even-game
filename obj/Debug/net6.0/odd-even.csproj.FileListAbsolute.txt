@@ -1,0 +1,15 @@
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\bin\Debug\net6.0\odd-even.exe
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\bin\Debug\net6.0\odd-even.deps.json
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\bin\Debug\net6.0\odd-even.runtimeconfig.json
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\bin\Debug\net6.0\odd-even.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\bin\Debug\net6.0\odd-even.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.csproj.AssemblyReference.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.AssemblyInfoInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.AssemblyInfo.cs
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.csproj.CoreCompileInputs.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\refint\odd-even.dll
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.pdb
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\odd-even.genruntimeconfig.cache
+C:\Users\fakir\OneDrive\Desktop\integrify\odd-even\obj\Debug\net6.0\ref\odd-even.dll
